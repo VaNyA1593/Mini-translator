@@ -1,0 +1,4 @@
+while True:    
+    my_dict = {"How are you?" : "Как дела?", "Hello" : "Привет", "Bye" : "Пока"}
+    translate = input("Что ты хочеш перевести")
+    print(my_dict[translate])
